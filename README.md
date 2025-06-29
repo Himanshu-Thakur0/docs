@@ -1157,6 +1157,1144 @@ Where P = pairing energy
 
 ---
 
+## Question 7: Electronic Configuration and Molecular Orbital Analysis of Oxygen Species
+
+**Write the electronic configuration, energy level diagram, calculate the bond order and predict the magnetic behavior of: O₂, O₂⁺, O₂⁻, O₂²⁻**
+
+### Solution:
+
+**Electronic Configuration of Oxygen (O):** 1s² 2s² 2p⁴
+
+**Molecular Orbital Energy Order for O₂:**
+σ1s < σ*1s < σ2s < σ*2s < σ2pz < π2px = π2py < π*2px = π*2py < σ*2pz
+
+### Analysis of Each Species:
+
+#### 1. O₂ (16 electrons total)
+**Electronic Configuration:** 
+(σ1s)² (σ*1s)² (σ2s)² (σ*2s)² (σ2pz)² (π2px)² (π2py)² (π*2px)¹ (π*2py)¹
+
+**Bond Order Calculation:**
+Bond Order = (Bonding electrons - Antibonding electrons)/2
+= (10 - 6)/2 = 2
+
+**Magnetic Behavior:** Paramagnetic (2 unpaired electrons in π*2px and π*2py)
+
+#### 2. O₂⁺ (15 electrons total)
+**Electronic Configuration:**
+(σ1s)² (σ*1s)² (σ2s)² (σ*2s)² (σ2pz)² (π2px)² (π2py)² (π*2px)¹
+
+**Bond Order:** (10 - 5)/2 = 2.5
+
+**Magnetic Behavior:** Paramagnetic (1 unpaired electron)
+
+#### 3. O₂⁻ (17 electrons total)
+**Electronic Configuration:**
+(σ1s)² (σ*1s)² (σ2s)² (σ*2s)² (σ2pz)² (π2px)² (π2py)² (π*2px)² (π*2py)¹
+
+**Bond Order:** (10 - 7)/2 = 1.5
+
+**Magnetic Behavior:** Paramagnetic (1 unpaired electron)
+
+#### 4. O₂²⁻ (18 electrons total)
+**Electronic Configuration:**
+(σ1s)² (σ*1s)² (σ2s)² (σ*2s)² (σ2pz)² (π2px)² (π2py)² (π*2px)² (π*2py)²
+
+**Bond Order:** (10 - 8)/2 = 1
+
+**Magnetic Behavior:** Diamagnetic (all electrons paired)
+
+### Energy Level Diagram:
+```
+       σ*2pz  ___
+              
+π*2px  ___    π*2py  ___
+       ↑             ↑     (for O₂)
+
+π2px   ___    π2py   ___
+       ↑↓            ↑↓
+
+       σ2pz   ___
+              ↑↓
+
+       σ*2s   ___
+              ↑↓
+
+       σ2s    ___
+              ↑↓
+
+       σ*1s   ___
+              ↑↓
+
+       σ1s    ___
+              ↑↓
+```
+
+**Summary Table:**
+| Species | Bond Order | Magnetic Behavior | Stability Order |
+|---------|------------|-------------------|-----------------|
+| O₂⁺     | 2.5        | Paramagnetic      | Most stable     |
+| O₂      | 2.0        | Paramagnetic      | Stable          |
+| O₂⁻     | 1.5        | Paramagnetic      | Less stable     |
+| O₂²⁻    | 1.0        | Diamagnetic       | Least stable    |
+
+---
+
+## Question 8: Polymer Classification and Comparison
+
+**Distinguish between:**
+**a. Thermosetting and thermoplastic**
+**b. Natural rubber and vulcanized rubber**
+**c. Addition and Condensation Polymers**
+
+### Solution:
+
+#### a. Thermosetting vs Thermoplastic Polymers
+
+| Property | Thermosetting | Thermoplastic |
+|----------|---------------|---------------|
+| **Structure** | Cross-linked 3D network | Linear or branched chains |
+| **Reversibility** | Irreversible on heating | Reversible on heating |
+| **Molecular bonds** | Covalent cross-links | Van der Waals forces |
+| **Melting behavior** | Decomposes before melting | Softens and melts |
+| **Strength** | High mechanical strength | Lower mechanical strength |
+| **Examples** | Bakelite, Urea-formaldehyde | Polythene, PVC, Polystyrene |
+| **Applications** | Electrical insulators, kitchenware | Packaging, toys, containers |
+| **Recycling** | Cannot be recycled | Can be recycled |
+
+#### b. Natural Rubber vs Vulcanized Rubber
+
+| Property | Natural Rubber | Vulcanized Rubber |
+|----------|----------------|-------------------|
+| **Source** | Natural latex from rubber tree | Natural rubber + sulfur |
+| **Structure** | Long chain polyisoprene | Cross-linked with sulfur bridges |
+| **Temperature sensitivity** | Soft at high temp, brittle at low temp | Stable over wide temperature range |
+| **Elasticity** | Good but temperature dependent | Excellent elasticity |
+| **Tensile strength** | Low (2-3 MPa) | High (20-30 MPa) |
+| **Chemical resistance** | Poor | Good resistance to chemicals |
+| **Durability** | Low | High durability |
+| **Applications** | Limited use | Tires, gaskets, hoses |
+
+#### c. Addition vs Condensation Polymers
+
+| Property | Addition Polymers | Condensation Polymers |
+|----------|-------------------|----------------------|
+| **Mechanism** | Addition of monomers without elimination | Elimination of small molecules (H₂O, HCl) |
+| **Molecular weight** | Same as sum of monomers | Less than sum of monomers |
+| **Functional groups** | Usually contain C=C bonds | Contain functional groups (OH, COOH, NH₂) |
+| **Chain growth** | Chain grows by addition | Step-wise growth |
+| **Examples** | Polythene, PVC, Polystyrene | Nylon, Polyester, Bakelite |
+| **Byproducts** | No byproducts | Small molecules eliminated |
+| **Reaction type** | Free radical, ionic | Nucleophilic substitution |
+
+**Addition Polymerization Example:**
+n(CH₂=CH₂) → [-CH₂-CH₂-]ₙ
+
+**Condensation Polymerization Example:**
+nH₂N-(CH₂)₆-NH₂ + nHOOC-(CH₂)₄-COOH → [-NH-(CH₂)₆-NH-CO-(CH₂)₄-CO-]ₙ + 2nH₂O
+
+---
+
+## Question 9: Biodiesel Production and Advantages
+
+**Write the advantages of biodiesel and explain the transesterification process of biodiesel.**
+
+### Solution:
+
+#### Advantages of Biodiesel:
+
+1. **Environmental Benefits:**
+   - Reduces CO₂ emissions by 78% compared to petroleum diesel
+   - Biodegradable and non-toxic
+   - Lower sulfur content reduces acid rain
+   - Reduces particulate matter emissions
+
+2. **Renewable Source:**
+   - Made from renewable resources (vegetable oils, animal fats)
+   - Reduces dependence on fossil fuels
+   - Sustainable energy source
+
+3. **Economic Benefits:**
+   - Creates employment in agricultural sector
+   - Reduces import dependency
+   - Price stability compared to petroleum products
+
+4. **Performance Benefits:**
+   - Higher flash point (safer handling)
+   - Better lubricity properties
+   - Higher cetane number
+   - Can be blended with petroleum diesel
+
+#### Transesterification Process:
+
+**Definition:** Transesterification is a chemical process where triglycerides react with alcohol in presence of a catalyst to produce fatty acid alkyl esters (biodiesel) and glycerol.
+
+**Chemical Reaction:**
+Triglyceride + 3 Methanol → 3 Fatty Acid Methyl Ester + Glycerol
+
+**Process Steps:**
+
+1. **Preparation:**
+   - Vegetable oil/animal fat is heated to 60°C
+   - Methanol and catalyst (NaOH/KOH) are mixed
+
+2. **Reaction:**
+   - Oil is mixed with methanol-catalyst solution
+   - Reaction occurs at 60°C for 1-2 hours
+   - Molar ratio: Oil:Methanol = 1:6
+
+3. **Separation:**
+   - Mixture settles into two layers
+   - Upper layer: Biodiesel
+   - Lower layer: Glycerol + impurities
+
+4. **Purification:**
+   - Biodiesel is washed with water
+   - Dried to remove moisture
+   - Filtered to remove impurities
+
+**Process Flow Diagram:**
+```
+Vegetable Oil → Pretreatment → Transesterification → Separation → Purification → Biodiesel
+    ↓              ↓               ↓                 ↓            ↓
+   Heat        + Methanol      Catalyst          Glycerol    Washing
+              + Catalyst       (NaOH/KOH)        Removal     & Drying
+```
+
+**Catalyst Types:**
+- **Base Catalysts:** NaOH, KOH (most common)
+- **Acid Catalysts:** H₂SO₄, HCl
+- **Enzyme Catalysts:** Lipases
+
+**Quality Parameters:**
+- Density: 0.86-0.90 g/cm³
+- Viscosity: 3.5-5.0 mm²/s
+- Flash point: >120°C
+- Sulfur content: <10 ppm
+
+---
+
+## Question 10: Polymers and Classification
+
+**What are polymers? What are the different criteria for their classification?**
+
+### Solution:
+
+#### Definition of Polymers:
+
+**Polymers** are large molecules composed of many repeated structural units (monomers) connected by covalent bonds. The word "polymer" comes from Greek words "poly" (many) and "mer" (parts).
+
+**General Representation:** [-A-]ₙ where A is the repeating unit and n is the degree of polymerization.
+
+#### Classification Criteria:
+
+#### 1. Based on Source/Origin:
+
+**a) Natural Polymers:**
+- Found in nature
+- Examples: Cellulose, starch, proteins, DNA, natural rubber
+- Biodegradable and biocompatible
+
+**b) Semi-synthetic Polymers:**
+- Modified natural polymers
+- Examples: Cellulose acetate, vulcanized rubber
+- Improved properties over natural polymers
+
+**c) Synthetic Polymers:**
+- Man-made polymers
+- Examples: Polythene, PVC, nylon, Teflon
+- Designed for specific applications
+
+#### 2. Based on Structure:
+
+**a) Linear Polymers:**
+- Monomers linked in straight chains
+- Example: Polythene, PVC
+- Good flexibility and solubility
+
+**b) Branched Polymers:**
+- Side chains attached to main chain
+- Example: Low-density polythene
+- Lower density, more flexibility
+
+**c) Cross-linked Polymers:**
+- 3D network structure
+- Example: Vulcanized rubber, Bakelite
+- High strength, insoluble
+
+#### 3. Based on Polymerization Mechanism:
+
+**a) Addition Polymers:**
+- Formed by addition reactions
+- No elimination of byproducts
+- Examples: Polythene, Polystyrene, PVC
+
+**b) Condensation Polymers:**
+- Formed with elimination of small molecules
+- Examples: Nylon, Polyester, Bakelite
+
+#### 4. Based on Thermal Behavior:
+
+**a) Thermoplastics:**
+- Soften on heating, harden on cooling
+- Reversible process
+- Examples: Polythene, PVC, Polystyrene
+
+**b) Thermosets:**
+- Cannot be softened by heating
+- Irreversible process
+- Examples: Bakelite, Melamine-formaldehyde
+
+#### 5. Based on Molecular Forces:
+
+**a) Elastomers:**
+- Rubber-like elasticity
+- Examples: Natural rubber, synthetic rubber
+- Can be stretched and return to original shape
+
+**b) Fibers:**
+- High tensile strength
+- Examples: Nylon, Polyester, Cotton
+- Used in textiles
+
+**c) Plastics:**
+- Can be molded into shapes
+- Examples: Polythene, PVC, Polystyrene
+
+#### 6. Based on Biodegradability:
+
+**a) Biodegradable Polymers:**
+- Decompose naturally
+- Examples: PLA, PGA, Starch-based polymers
+- Environmentally friendly
+
+**b) Non-biodegradable Polymers:**
+- Do not decompose easily
+- Examples: Polythene, PVC, Polystyrene
+- Environmental concerns
+
+#### 7. Based on Application:
+
+**a) Commodity Polymers:**
+- High volume, low cost
+- Examples: Polythene, Polypropylene, PVC
+
+**b) Engineering Polymers:**
+- High performance applications
+- Examples: Nylon, Polycarbonate, ABS
+
+**c) Specialty Polymers:**
+- Specific applications
+- Examples: Teflon, Kevlar, Silicones
+
+#### Classification Tree Diagram:
+```
+                    POLYMERS
+                       |
+        ┌──────────────┼──────────────┐
+    NATURAL      SEMI-SYNTHETIC    SYNTHETIC
+        |              |              |
+   ┌────┴────┐    ┌────┴────┐    ┌────┴────┐
+Cellulose  DNA  Cellulose  Modified  Polythene Nylon
+Starch  Protein Acetate   Rubber      PVC    Teflon
+```
+
+---
+
+## Question 11: NMR Spectroscopy Principles
+
+**Explain the principle of NMR spectroscopy. What is meant by term chemical shift? Explain how the NMR spectrum of a compound is recorded with example.**
+
+### Solution:
+
+#### Principle of NMR Spectroscopy:
+
+**Nuclear Magnetic Resonance (NMR)** spectroscopy is based on the magnetic properties of certain atomic nuclei.
+
+#### Basic Principles:
+
+1. **Nuclear Spin:**
+   - Nuclei with odd mass number or odd atomic number have nuclear spin
+   - Common NMR-active nuclei: ¹H, ¹³C, ¹⁹F, ³¹P
+   - Nuclear spin creates a magnetic moment
+
+2. **Energy Levels in Magnetic Field:**
+   - In external magnetic field, nuclei can exist in different energy states
+   - For ¹H: two energy states (α and β)
+   - Energy difference: ΔE = γℏB₀
+
+3. **Resonance Condition:**
+   - When radiofrequency matches energy difference, resonance occurs
+   - ν = γB₀/2π (Larmor frequency)
+   - γ = gyromagnetic ratio, B₀ = magnetic field strength
+
+#### Chemical Shift:
+
+**Definition:** Chemical shift is the difference in resonance frequency of a nucleus compared to a reference compound, expressed in parts per million (ppm).
+
+**Formula:** δ = (ν_sample - ν_reference)/ν_spectrometer × 10⁶
+
+**Reference Standard:** Tetramethylsilane (TMS) - (CH₃)₄Si
+- Chemical shift of TMS = 0 ppm
+- Inert, volatile, gives single sharp peak
+
+**Factors Affecting Chemical Shift:**
+
+1. **Electronegativity:**
+   - More electronegative atoms cause downfield shift
+   - Order: F > O > N > C > H
+
+2. **Shielding and Deshielding:**
+   - **Shielding:** Electron density around nucleus reduces effective magnetic field
+   - **Deshielding:** Reduced electron density increases effective magnetic field
+
+3. **Hybridization:**
+   - sp³ < sp² < sp (increasing deshielding)
+
+4. **Aromatic Effects:**
+   - Aromatic protons highly deshielded (6-8 ppm)
+
+#### Recording NMR Spectrum:
+
+#### Instrumentation:
+
+1. **Magnet:** Provides strong, uniform magnetic field (1-15 Tesla)
+2. **Radiofrequency Generator:** Provides RF pulses
+3. **Detector:** Records absorbed energy
+4. **Computer:** Processes signals using Fourier Transform
+
+#### Sample Preparation:
+- Sample dissolved in deuterated solvent (CDCl₃, D₂O)
+- TMS added as internal standard
+- Sample placed in NMR tube
+
+#### Recording Process:
+1. Sample placed in magnetic field
+2. RF pulse applied perpendicular to magnetic field
+3. Nuclei absorb energy and flip to higher energy state
+4. When RF pulse stops, nuclei relax back
+5. Relaxation produces detectable signal (Free Induction Decay)
+6. FT-NMR converts time domain to frequency domain
+
+#### Example: NMR Spectrum of Ethanol (CH₃CH₂OH)
+
+**Expected Signals:**
+
+1. **CH₃ group:** 
+   - Chemical shift: ~1.2 ppm
+   - Multiplicity: Triplet (coupled with CH₂)
+   - Integration: 3H
+
+2. **CH₂ group:**
+   - Chemical shift: ~3.7 ppm
+   - Multiplicity: Quartet (coupled with CH₃)
+   - Integration: 2H
+
+3. **OH group:**
+   - Chemical shift: ~2.5 ppm (variable)
+   - Multiplicity: Singlet (exchanges rapidly)
+   - Integration: 1H
+
+**Spectrum Interpretation:**
+```
+   OH(1H)          CH₂(2H)         CH₃(3H)
+     |               |               |
+     ▼               ▼               ▼
+|-------|-------|-------|-------|-------|
+5.0    4.0     3.0     2.0     1.0     0.0 ppm
+                                      TMS
+```
+
+**Coupling Patterns:**
+- CH₃ appears as triplet due to coupling with CH₂ (n+1 rule: 2+1=3)
+- CH₂ appears as quartet due to coupling with CH₃ (3+1=4)
+- OH does not couple due to rapid exchange
+
+#### Integration:
+- Area under peaks proportional to number of protons
+- Ratio of areas gives ratio of protons
+- For ethanol: CH₃:CH₂:OH = 3:2:1
+
+#### Applications:
+1. Structure determination
+2. Purity analysis
+3. Quantitative analysis
+4. Reaction monitoring
+5. Conformational analysis
+
+---
+
+## Question 12: Electronic Configuration and Molecular Orbital Analysis of Nitrogen Species
+
+**Write the electronic configuration, energy level diagram, calculate the bond order and predict the magnetic behavior of: N₂, N₂⁺, N₂⁻, N₂²⁻**
+
+### Solution:
+
+**Electronic Configuration of Nitrogen (N):** 1s² 2s² 2p³
+
+**Molecular Orbital Energy Order for N₂:**
+σ1s < σ*1s < σ2s < σ*2s < π2px = π2py < σ2pz < π*2px = π*2py < σ*2pz
+
+### Analysis of Each Species:
+
+#### 1. N₂ (14 electrons total)
+**Electronic Configuration:**
+(σ1s)² (σ*1s)² (σ2s)² (σ*2s)² (π2px)² (π2py)² (σ2pz)²
+
+**Bond Order Calculation:**
+Bond Order = (Bonding electrons - Antibonding electrons)/2
+= (10 - 4)/2 = 3
+
+**Magnetic Behavior:** Diamagnetic (all electrons paired)
+
+#### 2. N₂⁺ (13 electrons total)
+**Electronic Configuration:**
+(σ1s)² (σ*1s)² (σ2s)² (σ*2s)² (π2px)² (π2py)² (σ2pz)¹
+
+**Bond Order:** (9 - 4)/2 = 2.5
+
+**Magnetic Behavior:** Paramagnetic (1 unpaired electron in σ2pz)
+
+#### 3. N₂⁻ (15 electrons total)
+**Electronic Configuration:**
+(σ1s)² (σ*1s)² (σ2s)² (σ*2s)² (π2px)² (π2py)² (σ2pz)² (π*2px)¹
+
+**Bond Order:** (10 - 5)/2 = 2.5
+
+**Magnetic Behavior:** Paramagnetic (1 unpaired electron in π*2px)
+
+#### 4. N₂²⁻ (16 electrons total)
+**Electronic Configuration:**
+(σ1s)² (σ*1s)² (σ2s)² (σ*2s)² (π2px)² (π2py)² (σ2pz)² (π*2px)¹ (π*2py)¹
+
+**Bond Order:** (10 - 6)/2 = 2
+
+**Magnetic Behavior:** Paramagnetic (2 unpaired electrons in π*2px and π*2py)
+
+### Energy Level Diagram for N₂:
+```
+       σ*2pz  ___
+              
+π*2px  ___    π*2py  ___
+                     
+       σ2pz   ___
+              ↑↓    (HOMO for N₂)
+
+π2px   ___    π2py   ___
+       ↑↓            ↑↓
+
+       σ*2s   ___
+              ↑↓
+
+       σ2s    ___
+              ↑↓
+
+       σ*1s   ___
+              ↑↓
+
+       σ1s    ___
+              ↑↓
+```
+
+**Summary Table:**
+| Species | Bond Order | Magnetic Behavior | Bond Length Order | Stability |
+|---------|------------|-------------------|-------------------|-----------|
+| N₂      | 3.0        | Diamagnetic       | Shortest          | Most stable |
+| N₂⁺     | 2.5        | Paramagnetic      | Intermediate      | Less stable |
+| N₂⁻     | 2.5        | Paramagnetic      | Intermediate      | Less stable |
+| N₂²⁻    | 2.0        | Paramagnetic      | Longest           | Least stable |
+
+**Key Points:**
+- Higher bond order = shorter bond length = greater stability
+- N₂ has triple bond (strongest among the series)
+- All species except N₂ are paramagnetic
+- Bond length order: N₂ < N₂⁺ = N₂⁻ < N₂²⁻
+
+---
+
+## Question 13: Polymer Preparation, Properties and Uses
+
+**Explain the preparation, properties and uses of the following polymers:**
+**(i) Polythene (iii) Teflon (v) Polyvinylacetate (vi) Nylon6,6 (vii) Bakelite (viii) Urea-formaldehyde resin**
+
+### Solution:
+
+#### (i) Polythene (Polyethylene)
+
+**Preparation:**
+- **Monomer:** Ethylene (CH₂=CH₂)
+- **Polymerization:** Free radical addition polymerization
+- **Reaction:** n(CH₂=CH₂) → [-CH₂-CH₂-]ₙ
+
+**Two Types:**
+1. **LDPE (Low Density):** High pressure (1000-3000 atm), 80-300°C
+2. **HDPE (High Density):** Low pressure, Ziegler-Natta catalyst
+
+**Properties:**
+- Thermoplastic polymer
+- Good chemical resistance
+- Low density (0.91-0.96 g/cm³)
+- Good electrical insulator
+- Flexible and tough
+
+**Uses:**
+- Packaging films and bags
+- Bottles and containers
+- Electrical cable insulation
+- Toys and household items
+
+#### (iii) Teflon (Polytetrafluoroethylene - PTFE)
+
+**Preparation:**
+- **Monomer:** Tetrafluoroethylene (CF₂=CF₂)
+- **Polymerization:** Free radical polymerization at high pressure
+- **Reaction:** n(CF₂=CF₂) → [-CF₂-CF₂-]ₙ
+
+**Properties:**
+- Extremely chemically inert
+- High thermal stability (-200°C to +260°C)
+- Non-stick surface (low friction coefficient)
+- Excellent electrical insulator
+- Non-flammable
+
+**Uses:**
+- Non-stick cookware coating
+- Gaskets and seals
+- Electrical insulation
+- Chemical equipment lining
+- "Wonder plastic" due to unique properties
+
+#### (v) Polyvinyl Acetate (PVA)
+
+**Preparation:**
+- **Monomer:** Vinyl acetate (CH₂=CH-OCOCH₃)
+- **Polymerization:** Free radical polymerization
+- **Reaction:** n[CH₂=CH-OCOCH₃] → [-CH₂-CH(OCOCH₃)-]ₙ
+
+**Properties:**
+- Thermoplastic polymer
+- Good adhesive properties
+- Water-based emulsion form
+- Non-toxic
+- Good film-forming ability
+
+**Uses:**
+- Wood glues and adhesives
+- Paper coating
+- Textile finishing
+- Paint formulations
+- Base for polyvinyl alcohol production
+
+#### (vi) Nylon 6,6
+
+**Preparation:**
+- **Monomers:** Hexamethylenediamine + Adipic acid
+- **Polymerization:** Condensation polymerization
+- **Reaction:**
+  nH₂N-(CH₂)₆-NH₂ + nHOOC-(CH₂)₄-COOH → 
+  [-NH-(CH₂)₆-NH-CO-(CH₂)₄-CO-]ₙ + 2nH₂O
+
+**Properties:**
+- High tensile strength
+- Good elasticity
+- Resistant to abrasion
+- Low coefficient of friction
+- Can be drawn into fine fibers
+
+**Uses:**
+- Synthetic fibers for textiles
+- Carpets and upholstery
+- Fishing lines and ropes
+- Mechanical parts (gears, bearings)
+- Parachutes
+
+#### (vii) Bakelite (Phenol-Formaldehyde Resin)
+
+**Preparation:**
+- **Monomers:** Phenol + Formaldehyde
+- **Catalyst:** Acid or base
+- **Reaction occurs in stages:**
+  1. Formation of methylol phenols
+  2. Condensation to form chains
+  3. Cross-linking to form 3D network
+
+**Chemical Reaction:**
+C₆H₅OH + CH₂O → C₆H₄(OH)(CH₂OH) → Cross-linked polymer + H₂O
+
+**Properties:**
+- Thermosetting polymer
+- High mechanical strength
+- Good electrical insulator
+- Heat resistant
+- Chemical resistant
+- Cannot be remolded
+
+**Uses:**
+- Electrical switches and sockets
+- Automobile parts
+- Kitchenware handles
+- Printed circuit boards
+- Decorative items
+
+#### (viii) Urea-Formaldehyde Resin
+
+**Preparation:**
+- **Monomers:** Urea + Formaldehyde
+- **Catalyst:** Acid catalyst
+- **Two-stage process:**
+  1. Formation of methylol ureas
+  2. Condensation and cross-linking
+
+**Chemical Reaction:**
+NH₂-CO-NH₂ + CH₂O → NH₂-CO-NH-CH₂OH → Cross-linked polymer + H₂O
+
+**Properties:**
+- Thermosetting polymer
+- Hard and brittle
+- Good electrical insulator
+- Colorless (can be colored)
+- Good adhesive properties
+- Water resistant
+
+**Uses:**
+- Adhesives for plywood and particle board
+- Electrical fittings
+- Decorative laminates
+- Textile finishing
+- Foam insulation
+
+### Comparison Table:
+
+| Polymer | Type | Preparation Method | Key Property | Main Use |
+|---------|------|-------------------|--------------|----------|
+| Polythene | Thermoplastic | Addition | Chemical resistance | Packaging |
+| Teflon | Thermoplastic | Addition | Non-stick | Cookware |
+| PVA | Thermoplastic | Addition | Adhesive | Glues |
+| Nylon 6,6 | Thermoplastic | Condensation | High strength | Textiles |
+| Bakelite | Thermosetting | Condensation | Electrical insulation | Electronics |
+| UF Resin | Thermosetting | Condensation | Adhesive | Wood industry |
+
+---
+
+## Question 14: Crystal Field Stabilisation Energy (CFSE) and Pairing Energy (P) - Octahedral vs Tetrahedral Ligand Fields
+
+### Crystal Field Stabilisation Energy (CFSE)
+CFSE is the stabilization energy that results from the splitting of d-orbitals in the presence of ligands. It represents the difference in energy between the d-electrons in a ligand field and those in a spherically symmetric field.
+
+**Formula for CFSE:**
+- Octahedral: CFSE = (number of electrons in t₂g × -0.4Δₒ) + (number of electrons in eg × +0.6Δₒ) + (P × number of electron pairs)
+- Tetrahedral: CFSE = (number of electrons in e × -0.6Δₜ) + (number of electrons in t₂ × +0.4Δₜ) + (P × number of electron pairs)
+
+### Pairing Energy (P)
+Pairing energy is the energy required to pair two electrons in the same orbital. It includes:
+- Electrostatic repulsion between electrons
+- Exchange energy loss when electrons are paired
+
+### Octahedral Ligand Field Splitting
+
+```
+Energy Level Diagram for Octahedral Complex:
+
+    eg ↑     ↑     (dx²-y², dz²)
+         +0.6Δₒ
+    ─────────────── Average energy level
+         -0.4Δₒ
+    t₂g ↑  ↑  ↑    (dxy, dxz, dyz)
+```
+
+**Characteristics of Octahedral Splitting:**
+- Energy gap = Δₒ (crystal field splitting energy)
+- Lower energy orbitals: t₂g (3 orbitals)
+- Higher energy orbitals: eg (2 orbitals)
+- Splitting ratio: 3:2 (energy difference)
+
+### Tetrahedral Ligand Field Splitting
+
+```
+Energy Level Diagram for Tetrahedral Complex:
+
+    t₂  ↑  ↑  ↑    (dxy, dxz, dyz)
+         +0.4Δₜ
+    ─────────────── Average energy level
+         -0.6Δₜ
+    e   ↑     ↑     (dx²-y², dz²)
+```
+
+**Characteristics of Tetrahedral Splitting:**
+- Energy gap = Δₜ (crystal field splitting energy)
+- Lower energy orbitals: e (2 orbitals)
+- Higher energy orbitals: t₂ (3 orbitals)
+- Relationship: Δₜ = (4/9)Δₒ
+
+### Comparison Table: Octahedral vs Tetrahedral
+
+| Feature | Octahedral | Tetrahedral |
+|---------|------------|-------------|
+| **Number of ligands** | 6 | 4 |
+| **Lower energy orbitals** | t₂g (3 orbitals) | e (2 orbitals) |
+| **Higher energy orbitals** | eg (2 orbitals) | t₂ (3 orbitals) |
+| **Energy splitting** | Δₒ | Δₜ = (4/9)Δₒ |
+| **Stabilization factor** | -0.4Δₒ, +0.6Δₒ | -0.6Δₜ, +0.4Δₜ |
+| **Common examples** | [Fe(CN)₆]³⁻, [Co(NH₃)₆]³⁺ | [FeCl₄]⁻, [CoCl₄]²⁻ |
+
+### Significance of CFSE
+1. **Stability prediction**: Higher CFSE indicates greater stability
+2. **Magnetic properties**: Determines high-spin vs low-spin configurations
+3. **Color explanation**: d-d transitions cause color in complexes
+4. **Geometry preference**: Helps predict preferred coordination geometry
+
+---
+
+## Question 15: Strong and Weak Ligand Fields in Crystal Field Theory - Octahedral Complexes
+
+### Crystal Field Theory - Historical Background
+**Proposed by:** Hans Bethe (1929) and later developed by John Hasbrouck van Vleck
+
+Crystal Field Theory (CFT) was developed to explain the bonding, magnetic properties, and colors of transition metal complexes by treating the metal-ligand interaction as purely electrostatic.
+
+### Basic Postulates of Crystal Field Theory
+
+1. **Electrostatic Interaction**: Metal-ligand bonding is purely ionic/electrostatic
+2. **Point Charge Model**: Ligands are treated as point charges or point dipoles
+3. **d-Orbital Splitting**: Ligand field splits degenerate d-orbitals into different energy levels
+4. **No Orbital Overlap**: No covalent bonding or orbital mixing is considered
+5. **Crystal Field Stabilization**: Electrons occupy lower energy orbitals preferentially
+
+### Strong Field vs Weak Field Ligands
+
+#### Strong Field Ligands (Low Spin)
+**Characteristics:**
+- Cause large crystal field splitting (Large Δₒ)
+- Pairing energy (P) < Δₒ
+- Electrons pair in lower energy orbitals before occupying higher ones
+- Result in low-spin complexes
+- Usually diamagnetic or have fewer unpaired electrons
+
+**Examples:** CN⁻, CO, NO₂⁻, en (ethylenediamine), NH₃, py (pyridine)
+
+**Spectrochemical Series Position:** Right side (high Δₒ values)
+
+#### Weak Field Ligands (High Spin)
+**Characteristics:**
+- Cause small crystal field splitting (Small Δₒ)
+- Pairing energy (P) > Δₒ
+- Electrons occupy all d-orbitals singly before pairing
+- Result in high-spin complexes
+- Usually paramagnetic with maximum unpaired electrons
+
+**Examples:** I⁻, Br⁻, Cl⁻, F⁻, OH⁻, H₂O, SCN⁻
+
+**Spectrochemical Series Position:** Left side (low Δₒ values)
+
+### Electronic Configuration Examples
+
+#### d⁵ Configuration (e.g., Fe³⁺, Mn²⁺)
+
+**Weak Field (High Spin):**
+```
+eg:  ↑     ↑     
+t₂g: ↑  ↑  ↑     
+```
+- 5 unpaired electrons
+- Magnetic moment = √[n(n+2)] = √35 = 5.92 BM
+
+**Strong Field (Low Spin):**
+```
+eg:  -     -     
+t₂g: ↑↓ ↑  ↑     
+```
+- 1 unpaired electron
+- Magnetic moment = √3 = 1.73 BM
+
+#### d⁶ Configuration (e.g., Fe²⁺, Co³⁺)
+
+**Weak Field (High Spin):**
+```
+eg:  ↑     ↑     
+t₂g: ↑↓ ↑  ↑     
+```
+- 4 unpaired electrons
+- Magnetic moment = √24 = 4.90 BM
+
+**Strong Field (Low Spin):**
+```
+eg:  -     -     
+t₂g: ↑↓ ↑↓ ↑↓    
+```
+- 0 unpaired electrons (diamagnetic)
+- Magnetic moment = 0 BM
+
+### Factors Affecting Ligand Field Strength
+
+1. **Nature of metal ion**: Higher oxidation state → stronger field
+2. **Size of metal ion**: Smaller ion → stronger field
+3. **Electronic configuration**: d⁴⁻d⁷ show both high and low spin
+4. **Ligand electronegativity**: Higher electronegativity → stronger field
+5. **π-bonding capability**: π-acceptor ligands → stronger field
+
+### Applications of CFT
+
+1. **Magnetic property prediction**
+2. **Color explanation in complexes**
+3. **Stability order determination**
+4. **Geometry preference prediction**
+5. **Jahn-Teller distortion explanation**
+
+---
+
+## Question 16: Corrosion Explanations
+
+### a) Why Impure Metals Corrode Faster than Pure Metals
+
+**Mechanism:**
+Impure metals corrode faster due to the formation of **galvanic cells** at the microscopic level.
+
+**Detailed Explanation:**
+
+1. **Galvanic Cell Formation:**
+   - Impurities act as cathodes
+   - Pure metal acts as anode
+   - Different metals have different electrode potentials
+
+2. **Electrochemical Process:**
+   ```
+   At Anode (Pure metal): M → M²⁺ + 2e⁻
+   At Cathode (Impurity): O₂ + 4H⁺ + 4e⁻ → 2H₂O
+   ```
+
+3. **Examples:**
+   - Iron with copper impurities
+   - Zinc with iron impurities
+   - Aluminum with copper traces
+
+**Factors Contributing:**
+- Different electrode potentials create potential difference
+- Microscopic galvanic cells accelerate corrosion
+- Heterogeneous surface promotes localized corrosion
+- Impurities may catalyze corrosion reactions
+
+### b) Why Corrosion is More Rapid if Cathode Area is Larger than Anode
+
+**Principle:**
+According to **Faraday's laws** and **current density relationships**, corrosion rate is inversely proportional to anode area and directly proportional to total current.
+
+**Mathematical Relationship:**
+```
+Corrosion Rate ∝ Current Density at Anode
+Current Density = Total Current / Anode Area
+```
+
+**Detailed Mechanism:**
+
+1. **Current Distribution:**
+   - Total corrosion current remains constant
+   - Large cathode area → more sites for reduction reactions
+   - Small anode area → high current density
+
+2. **Electrochemical Reactions:**
+   ```
+   At Anode: Fe → Fe²⁺ + 2e⁻ (concentrated on small area)
+   At Cathode: O₂ + 4H⁺ + 4e⁻ → 2H₂O (distributed over large area)
+   ```
+
+3. **Consequences:**
+   - Rapid metal dissolution at anode
+   - Pitting corrosion
+   - Accelerated localized attack
+
+**Practical Examples:**
+- Riveted joints (small anode, large cathode)
+- Dissimilar metal connections
+- Crevice corrosion scenarios
+
+### c) Dry Corrosion with Example
+
+**Definition:**
+Dry corrosion is the direct chemical reaction between metal and atmospheric gases (mainly oxygen) in the absence of moisture.
+
+**Mechanism:**
+Direct oxidation of metal surface by atmospheric oxygen:
+```
+2M + nO₂ → 2MₓOᵧ
+```
+
+**Detailed Process:**
+
+1. **Initial Reaction:**
+   ```
+   4Fe + 3O₂ → 2Fe₂O₃
+   ```
+
+2. **Film Formation:**
+   - Oxide layer forms on surface
+   - May be protective or non-protective
+
+3. **Rate Determining Factors:**
+   - Temperature
+   - Oxygen partial pressure
+   - Nature of oxide film
+
+**Types of Oxide Films:**
+
+**Protective Films:**
+- Characteristics: Dense, adherent, non-porous
+- Examples: Al₂O₃ on aluminum, Cr₂O₃ on chromium
+- Result: Self-limiting corrosion
+
+**Non-Protective Films:**
+- Characteristics: Porous, non-adherent, volatile
+- Examples: Fe₂O₃ on iron
+- Result: Continuous corrosion
+
+**Example - Oxidation of Iron:**
+```
+Stage 1: 2Fe + O₂ → 2FeO (close to metal surface)
+Stage 2: 6FeO + O₂ → 2Fe₃O₄ (intermediate layer)
+Stage 3: 4Fe₃O₄ + O₂ → 6Fe₂O₃ (outer layer)
+```
+
+**Factors Affecting Dry Corrosion:**
+1. Temperature
+2. Oxygen concentration
+3. Metal reactivity
+4. Oxide film properties
+5. Presence of catalysts
+
+---
+
+## Question 17: NMR Spectrum Recording, Shielding Effects, and ¹H Signal Analysis
+
+### How NMR Spectrum is Recorded
+
+**Basic Principle:**
+Nuclear Magnetic Resonance is based on the magnetic properties of atomic nuclei with non-zero spin.
+
+**Recording Process:**
+
+1. **Sample Preparation:**
+   - Dissolve sample in deuterated solvent (CDCl₃, D₂O)
+   - Add internal standard (TMS - Tetramethylsilane)
+   - Transfer to NMR tube
+
+2. **Instrument Setup:**
+   - Place sample in strong magnetic field (1.5-21 Tesla)
+   - Apply radiofrequency (RF) pulses
+   - Detect resonance frequencies
+
+3. **Data Acquisition:**
+   - Nuclei absorb RF energy at characteristic frequencies
+   - Computer processes Free Induction Decay (FID)
+   - Fourier Transform converts time domain to frequency domain
+
+4. **Spectrum Generation:**
+   - Plot intensity vs chemical shift (δ in ppm)
+   - Integration provides relative number of protons
+   - Coupling patterns show neighboring protons
+
+### Shielding and Deshielding Effects
+
+#### Shielding Effect
+**Definition:** Electron density around a nucleus reduces the effective magnetic field experienced by that nucleus.
+
+**Mechanism:**
+- High electron density creates local magnetic field
+- Opposes external magnetic field
+- Nucleus experiences weaker effective field
+- Resonates at higher field (upfield shift)
+- Lower δ (ppm) values
+
+**Examples:**
+- Alkyl protons (CH₃, CH₂)
+- Protons near electron-donating groups
+
+#### Deshielding Effect
+**Definition:** Reduced electron density around a nucleus increases the effective magnetic field.
+
+**Mechanism:**
+- Low electron density provides less magnetic shielding
+- Nucleus experiences stronger effective field
+- Resonates at lower field (downfield shift)
+- Higher δ (ppm) values
+
+**Examples:**
+- Aromatic protons (6-8 ppm)
+- Protons near electronegative atoms (O, N, halogens)
+- Aldehyde protons (9-10 ppm)
+
+### ¹H Signal Analysis for Given Compounds
+
+#### a) Cl-CH₂-CH₂-CH₂-Cl (1,3-dichloropropane)
+
+**Analysis:**
+- **Symmetrical molecule**
+- Two types of equivalent protons
+- **Number of signals: 2**
+
+**Signal Details:**
+1. **Central CH₂ group:** δ ≈ 2.3 ppm (quartet due to coupling with 4 neighboring H)
+2. **Terminal CH₂ groups:** δ ≈ 3.8 ppm (triplet due to coupling with 2 neighboring H)
+
+#### b) CH₃-CH=CH₂ (propene)
+
+**Analysis:**
+- Three different chemical environments
+- **Number of signals: 3**
+
+**Signal Details:**
+1. **CH₃ group:** δ ≈ 1.7 ppm (doublet, J ≈ 6 Hz)
+2. **CH proton:** δ ≈ 5.8 ppm (complex multiplet)
+3. **CH₂ protons:** δ ≈ 5.0-5.3 ppm (two separate signals, geminal coupling)
+
+#### c) C₆H₅-CH₃ (toluene)
+
+**Analysis:**
+- Two distinct environments
+- **Number of signals: 2**
+
+**Signal Details:**
+1. **Aromatic protons:** δ ≈ 7.2 ppm (complex multiplet, 5H)
+2. **CH₃ group:** δ ≈ 2.3 ppm (singlet, 3H)
+
+#### d) CH₃-CH₂-OH (ethanol)
+
+**Analysis:**
+- Three different environments
+- **Number of signals: 3**
+
+**Signal Details:**
+1. **CH₃ group:** δ ≈ 1.2 ppm (triplet, 3H)
+2. **CH₂ group:** δ ≈ 3.7 ppm (quartet, 2H)
+3. **OH proton:** δ ≈ 2.3 ppm (broad singlet, 1H, exchangeable)
+
+#### e) CH₃-CH=O (acetaldehyde)
+
+**Analysis:**
+- Two different environments
+- **Number of signals: 2**
+
+**Signal Details:**
+1. **CH₃ group:** δ ≈ 2.2 ppm (doublet, J ≈ 3 Hz, 3H)
+2. **CHO proton:** δ ≈ 9.8 ppm (quartet, J ≈ 3 Hz, 1H)
+
+### Summary Table of Chemical Shifts
+
+| Proton Type | Chemical Shift (δ ppm) |
+|-------------|------------------------|
+| **Alkyl CH₃, CH₂** | 0.8-2.0 |
+| **CH₂-Cl** | 3.5-4.0 |
+| **CH₂-O** | 3.3-4.0 |
+| **Alkene =CH** | 5.0-6.0 |
+| **Aromatic** | 7.0-8.0 |
+| **Aldehyde CHO** | 9.0-10.0 |
+| **Alcohol OH** | 1.0-5.0 (variable) |
+
+### Factors Affecting Chemical Shift
+1. **Electronegativity** of nearby atoms
+2. **π-electron effects** (aromatic systems)
+3. **Anisotropic effects** (magnetic anisotropy)
+4. **Hydrogen bonding**
+5. **Solvent effects**
+
 ## Question 18: Knocking in Internal Combustion Engines and Coal Analysis Calculation
 
 ### Knocking in Internal Combustion Engines
